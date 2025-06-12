@@ -19,6 +19,7 @@ const HID = require('node-hid'),
         0x0A44: "Virtuoso RGB Wireless",
         0x0A5C: "Virtuoso RGB Wireless",
         0x0A64: "Virtuoso RGB Wireless",
+        0x0A97: "HS80 Max Wireless",
     },
     DEVICE_STATES = {
         0: "Disconnected",
